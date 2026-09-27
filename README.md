@@ -10,7 +10,7 @@ ThinkPulse is a browser-based webcam posture tracker that analyzes posture using
 - Real-time posture feedback
 - Runs directly in the browser
 - Camera data stays on the device
-
+- Phone alarm/notification for poor posture
 ## Keywords
 
 ThinkPulse, posture tracker, webcam posture detection, posture monitoring, neck angle, shoulder angle
